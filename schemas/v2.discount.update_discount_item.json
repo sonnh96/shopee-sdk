@@ -42,13 +42,13 @@
       "solution": null
     },
     {
-      "name": "discount.item_status_abnormal",
-      "description": "The item status is abnormal",
+      "name": "discount.error_item_abnormal",
+      "description": "The item is abnormal",
       "solution": null
     },
     {
-      "name": "discount.error_item_abnormal",
-      "description": "The item is abnormal",
+      "name": "discount.item_status_abnormal",
+      "description": "The item status is abnormal",
       "solution": null
     },
     {
@@ -686,8 +686,7 @@
   "api_permission": [
     "ERP System",
     "Seller In House System",
-    "Marketing",
-    "Swam ERP"
+    "Marketing"
   ],
   "path": "/api/v2/discount/update_discount_item",
   "related_documents": {
