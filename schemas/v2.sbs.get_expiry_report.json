@@ -605,7 +605,7 @@
   "api_permission": [
     "ERP System",
     "Seller In House System",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/sbs/get_expiry_report",
   "related_documents": {

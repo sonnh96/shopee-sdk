@@ -419,7 +419,7 @@
     "ERP System",
     "Seller In House System",
     "Product Management",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/product/get_main_item_list",
   "related_documents": {

@@ -560,7 +560,7 @@
     "ERP System",
     "Seller In House System",
     "Accounting And Finance",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/payment/get_escrow_list",
   "related_documents": {
