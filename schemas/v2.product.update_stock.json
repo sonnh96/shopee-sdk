@@ -753,7 +753,7 @@
     "ERP System",
     "Seller In House System",
     "Product Management",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/product/update_stock",
   "related_documents": {

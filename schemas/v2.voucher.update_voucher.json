@@ -57,12 +57,12 @@
       "solution": null
     },
     {
-      "name": "error_param",
+      "name": "common.error_not_found",
       "description": "The information you queried is not found.",
       "solution": null
     },
     {
-      "name": "common.error_not_found",
+      "name": "error_param",
       "description": "The information you queried is not found.",
       "solution": null
     },
@@ -617,7 +617,7 @@
     "ERP System",
     "Seller In House System",
     "Marketing",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/voucher/update_voucher",
   "related_documents": {

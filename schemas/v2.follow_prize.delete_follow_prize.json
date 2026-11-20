@@ -67,23 +67,23 @@
       "solution": null
     },
     {
-      "name": "error_param",
-      "description": "The information you queried is not found.",
-      "solution": null
-    },
-    {
       "name": "common.error_not_found",
       "description": "The information you queried is not found.",
       "solution": null
     },
     {
-      "name": "common.error_param",
-      "description": "The Wrong parameters, detail: {msg}.",
+      "name": "error_param",
+      "description": "The information you queried is not found.",
       "solution": null
     },
     {
       "name": "error_param",
       "description": "Wrong parameters, detail: {msg}.",
+      "solution": null
+    },
+    {
+      "name": "common.error_param",
+      "description": "The Wrong parameters, detail: {msg}.",
       "solution": null
     },
     {
@@ -416,8 +416,7 @@
   "api_permission": [
     "ERP System",
     "Seller In House System",
-    "Marketing",
-    "Swam ERP"
+    "Marketing"
   ],
   "path": "/api/v2/follow_prize/delete_follow_prize",
   "related_documents": {

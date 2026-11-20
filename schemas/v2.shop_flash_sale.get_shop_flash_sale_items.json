@@ -738,7 +738,7 @@
     "ERP System",
     "Seller In House System",
     "Marketing",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/shop_flash_sale/get_shop_flash_sale_items",
   "related_documents": {

@@ -57,23 +57,23 @@
       "solution": null
     },
     {
-      "name": "error_param",
-      "description": "The information you queried is not found.",
-      "solution": null
-    },
-    {
       "name": "common.error_not_found",
       "description": "The information you queried is not found.",
       "solution": null
     },
     {
-      "name": "common.error_param",
-      "description": "The Wrong parameters, detail: {msg}.",
+      "name": "error_param",
+      "description": "The information you queried is not found.",
       "solution": null
     },
     {
       "name": "error_param",
       "description": "Wrong parameters, detail: {msg}.",
+      "solution": null
+    },
+    {
+      "name": "common.error_param",
+      "description": "The Wrong parameters, detail: {msg}.",
       "solution": null
     },
     {
@@ -500,7 +500,7 @@
     "Seller In House System",
     "Marketing",
     "Customized APP",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/follow_prize/get_follow_prize_list",
   "related_documents": {

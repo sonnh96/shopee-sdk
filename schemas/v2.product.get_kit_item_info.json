@@ -1075,7 +1075,7 @@
     "ERP System",
     "Seller In House System",
     "Product Management",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/product/get_kit_item_info",
   "related_documents": {
