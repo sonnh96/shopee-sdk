@@ -458,7 +458,7 @@
     "Product Management",
     "Order Management",
     "Ads Service",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/shop/update_profile",
   "related_documents": {

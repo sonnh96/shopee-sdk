@@ -549,7 +549,7 @@
     "Product Management",
     "Customized APP",
     "Custom APP",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/shop_category/get_shop_category_list",
   "related_documents": {

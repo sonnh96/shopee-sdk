@@ -497,7 +497,7 @@
     "ERP System",
     "Seller In House System",
     "Marketing",
-    "Swam ERP"
+    "Migoo"
   ],
   "path": "/api/v2/discount/get_sip_discounts",
   "related_documents": {
